@@ -1,11 +1,4 @@
-# Desafio do Programa de Formação em Elixir da Stone
-Este foi o desafio proposto para entrar no programar de formação em Elixir da Stone
-
-
-
-
-
-# Programa de Formação em Elixir | Teste Técnico
+# Programa de Formação em Elixir | Abaixo está o Teste Técnico proposto pela Stone
 
 Obrigada por se inscrever no [**Programa de Formação em Elixir**](https://jornada.stone.com.br/formulario/stonetech?gh_jid=4320776003)! Estamos muito felizes em ter você por aqui :)
 
