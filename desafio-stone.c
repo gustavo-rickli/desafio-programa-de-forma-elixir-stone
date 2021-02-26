@@ -82,6 +82,8 @@ void imprimir_resultado(Pagamento pagamento) {
   printf("\n\n\t ----------------------------------\n");
   printf("\t  %s%d%s\n", "Possuimos ", pagamento.totalDeEmails, " emails no total");
   printf("\t ----------------------------------\n");
+  printf("\t  %s%.2f\n", "Cada pessoa vai pagar R$", pagamento.quantiaPorPessoa);
+  printf("\t ----------------------------------\n");
 
   for (counter = 0; counter <= pagamento.totalDeEmails - 1; counter = counter + 1) {
 
